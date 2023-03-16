@@ -37,4 +37,4 @@ The following image shows the web application's appearance and functionality:
 
 Below is the link to the deployed application: 
 
-https://alexnanut.github.io/Password-Generator/ 
+https://alexnanut.github.io/Work-Day-Scheduler-/
