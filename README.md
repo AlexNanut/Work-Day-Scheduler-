@@ -30,11 +30,9 @@ I have applied the essential criteria as follows:
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".]https://github.com/AlexNanut/Password-Generator/blob/main/Assets/03-javascript-homework-demo.png
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/108309770/225493454-6e26e933-eb2c-4d1f-94e6-f39786ddb555.gif)
 
-# Built With
-
-In order to complete this challange, I applied the skills that I leard in the past week, such as variables, arrays, functions and while loops. 
+# Links
 
 
 Below is the link to the deployed application: 
